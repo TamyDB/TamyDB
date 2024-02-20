@@ -1,4 +1,5 @@
-### Hi there 👋
+### 🌱 I'm currently a student
+### ✨ looking to learn more to eventually work in the area
 
 <!--
 **TamyDB/TamyDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
