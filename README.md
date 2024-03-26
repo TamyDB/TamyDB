@@ -1,5 +1,5 @@
-### 🌱 I'm currently a student
-### ✨ Looking to learn more to eventually work in the area
+### 🌱 Currently studying
+### ✨ Seeking further knowledge to eventually pursue a career in the field.
 
 <!--
 **TamyDB/TamyDB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
